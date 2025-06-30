@@ -33,13 +33,7 @@ Tourism Management
 ---
 
 ## 🚀 Projects  
-
-**1. [Interactive Portfolio](https://github.com/Vlad2991/personal-site)**  
-- Responsive design with CSS animations  
-- Project filtering system  
-- Dark/light mode toggle  
-
-**2. [Productivity Todo App](https://github.com/Vlad2991/todo-app)**  
+**1. [Productivity Todo App](https://github.com/Vlad2991/todo-app)**  
 - LocalStorage data persistence  
 - Priority task tagging  
 - Drag-and-drop interface  

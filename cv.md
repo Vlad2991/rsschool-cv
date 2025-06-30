@@ -55,4 +55,4 @@ Tourism Management
 ## ✨ Highlights  
 - Career transition from industrial to tech field  
 - Strong problem-solving skills from high-pressure environments  
-- Passion for creating intuitive user experiences  
+- Passion for creating intuitive user experiences
